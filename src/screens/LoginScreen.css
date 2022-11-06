@@ -30,6 +30,8 @@ div.loginScreen {
     z-index: 1;
     color: white;
     padding: 20px;
+    left: 0;
+    right: 0;
 }
 
 .loginScreen_gradient {
@@ -64,7 +66,7 @@ div.loginScreen {
     padding-left: 20px;
 }
 
-.loginScreen_input>form>input {
+.loginScreen_input > form > input {
     padding: 10px;
     outline-width: 0;
     height: 30px;
