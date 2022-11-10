@@ -53,4 +53,4 @@ function SignUpScreen() {
     )
 }
 
-export default SignUpScreen
+export default SignUpScreen;
